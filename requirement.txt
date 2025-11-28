@@ -1,0 +1,4 @@
+#THIS IS JUST AND REQUREMENT FILE NOTHING ELSE KTRK
+streamlit
+pandas
+numpy
